@@ -7,9 +7,9 @@ I'll include all files necessary for 3D printing as well as images in case I hav
 
 ## License
 
-Given it's not software what we're talking about here, Creative Commons is used. Please, refer to the [CC site](https://creativecommons.org/licenses/by-sa/4.0/) for more info on proper use.
+Given it's not software what we're talking about here, Creative Commons Attribution-ShareAlike is used meaning, basically, you're free to use this as you please as long as you give attribution to the original author and share any modification of this work you may perform under the same license. Please, refer to the [CC site](https://creativecommons.org/licenses/by-sa/4.0/) for more info on proper use.
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
